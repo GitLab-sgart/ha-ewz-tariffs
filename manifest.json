@@ -5,5 +5,8 @@
   "documentation": "https://gitlab.com/sgartprojects/selfhosted/home-assistant/swiss-electricity-tariffs",
   "issue_tracker": "https://gitlab.com/sgartprojects/selfhosted/home-assistant/swiss-electricity-tariffs/issues",
   "integration_type": "hub",
-  "iot_class": "cloud_polling"
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "requirements": ["requests==2.31.0"],
+  "version": "0.0.0.1-pa"
 }

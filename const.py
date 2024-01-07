@@ -1,0 +1,1 @@
+DOMAIN = "ch_elec_tariffs"
