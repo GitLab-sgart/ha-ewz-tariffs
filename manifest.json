@@ -1,0 +1,9 @@
+{
+  "domain": "set",
+  "name": "Swiss Electricity Tariffs",
+  "codeowners": ["@GitLab-sgart"],
+  "documentation": "https://gitlab.com/sgartprojects/selfhosted/home-assistant/swiss-electricity-tariffs",
+  "issue_tracker": "https://gitlab.com/sgartprojects/selfhosted/home-assistant/swiss-electricity-tariffs/issues",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling"
+}
