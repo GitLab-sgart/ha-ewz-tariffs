@@ -1,5 +1,6 @@
 {
     "domain": "ewz",
+    "version": "0.0.1",
     "name": "EWZ Electricity Tariffs",
     "codeowners": ["@GitLab-sgart"],
     "documentation": "https://gitlab.com/sgartprojects/selfhosted/home-assistant/ewz-tariffs",
